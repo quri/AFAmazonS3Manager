@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
-  s.name         = "AFAmazonS3Manager"
+  s.name         = "AFAmazonS3Manager@quri"
   s.version      = "3.2.1"
   s.summary      = "AFNetworking extension for the Amazon S3 API."
   s.homepage     = "https://github.com/AFNetworking/AFAmazonS3Manager"
   s.social_media_url = "https://twitter.com/AFNetworking"
   s.license      = 'MIT'
   s.author       = { "Mattt Thompson" => "m@mattt.me" }
-  s.source       = { :git => "https://github.com/AFNetworking/AFAmazonS3Manager.git",
+  s.source       = { :git => "git@github.com:quri/AFAmazonS3Manager.git",
                      :tag => s.version }
 
   s.ios.deployment_target = '6.0'
