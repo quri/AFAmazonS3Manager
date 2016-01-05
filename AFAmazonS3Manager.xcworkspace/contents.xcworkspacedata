@@ -5,6 +5,12 @@
       location = "group:AFAmazonS3Manager"
       name = "AFAmazonS3Manager">
       <FileRef
+         location = "group:AFAmazonS3ResponseSerializer.h">
+      </FileRef>
+      <FileRef
+         location = "group:AFAmazonS3ResponseSerializer.m">
+      </FileRef>
+      <FileRef
          location = "group:AFAmazonS3Manager.h">
       </FileRef>
       <FileRef
